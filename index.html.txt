@@ -35,7 +35,7 @@
     <div class="container">
         <h1>Welcome to Docker!</h1>
         <p>Hellooooo!</p>
-        <p>This website is successfully connected to GitHub and Jenkins.</p>
+        <p>My website is updated using Jenkins Poll SCM!</p>
         <h3>Docker Lab Project</h3>
     </div>
 
